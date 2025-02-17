@@ -1,0 +1,34 @@
+# 🔹 Archivos de configuración sensibles
+.env
+.env.local
+config.yaml
+
+# 🔹 Dependencias y caché de Go
+/bin/
+/pkg/
+/tmp/
+*.exe
+*.out
+*.test
+
+# 🔹 Archivos generados por build
+/build/
+*.log
+
+# 🔹 Módulos de Go
+go.sum
+go.mod
+
+# 🔹 Archivos de compilación y ejecutables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 🔹 Archivos de Docker y contenedores
+docker-compose.override.yml
+docker-compose.dev.yml
+
+# 🔹 Base de datos y archivos de datos
+*.db
+*.sqlite
