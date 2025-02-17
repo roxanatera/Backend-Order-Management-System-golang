@@ -1,9 +1,9 @@
-# 🚀 Order Management System
+# Order Management System
 
-## 🌟 Descripción
+## Descripción
 Este es un **microservicio basado en Golang** para la gestión de pedidos, siguiendo una arquitectura **limpia y escalable**. Implementa un backend con **Fiber**, base de datos **PostgreSQL**, y despliegue en **Docker y AWS ECS**.
 
-## 🏗️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 - 🔹 **Golang** con Fiber
 - 🛢️ **PostgreSQL** para almacenamiento de datos
 - 🐳 **Docker** y **Docker Compose** para contenedores
